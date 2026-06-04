@@ -80,8 +80,8 @@ Python · Testes (React Testing Library, Cypress) · rumo ao Full Stack
 
 ### 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Willsmt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Willsmt&layout=compact&theme=tokyonight)
+![Stats](https://readme-stats-willismt.vercel.app/api?username=Willsmt&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-willismt.vercel.app/api/top-langs/?username=Willsmt&layout=compact&theme=tokyonight)
 
 ---
 
