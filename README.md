@@ -1,5 +1,10 @@
 # Olá, eu sou o Willians 👋
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Willsmt&label=Visitas%20no%20perfil&color=764ABC&style=flat" alt="Visitas no perfil" />
+  <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para%20vagas-J%C3%BAnior%20Front--End-2ea44f?style=flat" alt="Disponível para vagas" />
+</p>
+
 ### Desenvolvedor Front-End · React · TypeScript · em transição para Full Stack Python
 
 Construo interfaces responsivas e componentizadas com foco em código limpo, escalável e bem estruturado. Atualmente expandindo a stack rumo ao desenvolvimento Full Stack com Python.
