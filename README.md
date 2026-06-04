@@ -43,7 +43,6 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **⚙️ Ferramentas & Automação**
 
@@ -80,8 +79,7 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 - Pré-processadores **(Sass / Less)** e automação de tarefas com **Gulp / Grunt**
 - Organização de CSS com **BEM** e **SMACSS**
 - **Testes** com **React Testing Library** (unitários) e **Cypress** (E2E)
-- Versionamento com **Git** (branches, merge, logs) e **GitHub**
-
+- Versionamento com **Git** (branches, merge, resolução de conflitos e **pull requests**) e **GitHub**
 ---
 
 ### 🚧 Em estudo
