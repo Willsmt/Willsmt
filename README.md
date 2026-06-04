@@ -24,39 +24,49 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Front-End**
+**💻 Linguagens**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-**Estilo & Layout**
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**Ferramentas & Versionamento**
+**⚛️ Frameworks & Bibliotecas**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+**⚙️ Ferramentas & Automação**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Less](https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white)
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
+![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white)
 
 ---
 
-### 💡 Competências
+### 🧠 Conceitos & Metodologias
+
+`Desenvolvimento Front-End` · `Design Responsivo` · `Integração de APIs (AJAX / Fetch)` · `Programação Orientada a Objetos (POO)` · `Atomic Design` · `Arquitetura CSS (BEM e SMACSS)` · `Criação de Landing Pages`
+
+---
+
+### 💡 Competências em detalhe
 
 - **React + TypeScript** com gerenciamento de estado (props, eventos, estado local/global)
-- **Redux Toolkit** e **Redux Toolkit Query** para fluxo de dados e performance
+- **Redux Toolkit** e **RTK Query** para fluxo de dados e performance
 - **CSS-in-JS** com Styled Components, seguindo **Atomic Design**
 - JavaScript moderno **(ES6+)**: arrow functions, spread/rest, map/set, async
 - **POO** em JavaScript: herança, encapsulamento, código modular
 - Consumo de APIs com **AJAX / Fetch** e tratamento de exceções
 - **CSS responsivo**: Flexbox, Grid, breakpoints e viewport
-- Pré-processadores **(Sass)** e automação de tarefas com **Gulp / Grunt**
+- Pré-processadores **(Sass / Less)** e automação de tarefas com **Gulp / Grunt**
 - Organização de CSS com **BEM** e **SMACSS**
 - Versionamento com **Git** (branches, merge, logs) e **GitHub**
 
