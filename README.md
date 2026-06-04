@@ -73,13 +73,14 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 - **CSS responsivo**: Flexbox, Grid, breakpoints e viewport
 - Pré-processadores **(Sass / Less)** e automação de tarefas com **Gulp / Grunt**
 - Organização de CSS com **BEM** e **SMACSS**
+- **Testes** com **React Testing Library** (unitários) e **Cypress** (E2E)
 - Versionamento com **Git** (branches, merge, logs) e **GitHub**
 
 ---
 
 ### 🚧 Em estudo
 
-Python · Testes (React Testing Library, Cypress) · rumo ao Full Stack
+Python (Back-end) · rumo ao Full Stack
 
 ---
 
