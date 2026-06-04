@@ -54,6 +54,12 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white)
 
+**🧪 Testes**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+
 ---
 
 ### 🧠 Conceitos & Metodologias
