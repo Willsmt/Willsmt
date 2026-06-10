@@ -25,6 +25,18 @@ Aplicativo de delivery construído a partir de um layout do Figma, com checkout 
 
 🔗 **Acesse:** https://efood-react.vercel.app
 
+#### 🎮 [EPlay](https://github.com/Willsmt/eplay-loja-react) — E-commerce de games
+E-commerce de jogos com catálogo, categorias, carrinho e checkout completo, consumindo uma API real com cache.
+
+`React` · `TypeScript` · `Redux Toolkit` · `RTK Query` · `Styled Components` · `React Router` · `Formik` · `Yup` · `Vite`
+
+- Catálogo e categorias consumidos via **RTK Query** (com cache e estados de loading/erro)
+- Carrinho lateral gerenciado por **Redux Toolkit**
+- Checkout com **formulários validados** (Formik + Yup), **máscaras** de CPF/cartão e parcelamento dinâmico
+- Deploy contínuo na **Vercel**
+
+🔗 **Acesse:** https://eplay-loja-react.vercel.app
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
