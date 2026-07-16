@@ -37,6 +37,45 @@ E-commerce de jogos com catálogo, categorias, carrinho e checkout completo, con
 
 🔗 **Acesse:** https://eplay-loja-react.vercel.app
 
+#### 🐍 [commit-diario](https://github.com/Willsmt/commit-diario) — Blog pessoal com Django
+Blog pessoal desenvolvido com Django, com apps organizados em models, views e urls, migrations e testes automatizados.
+
+`Python` · `Django` · `SQLite` · `pytest`
+
+- Estrutura de app Django com **models, views e urls** separados
+- **Testes automatizados** (pytest) com factories para models e views
+- Variáveis sensíveis via **.env**, nunca versionadas
+- Painel administrativo via Django Admin
+
+#### 🗄️ [estudos-sql-postgresql](https://github.com/Willsmt/estudos-sql-postgresql) — Modelagem relacional com PostgreSQL
+Estudos de SQL e modelagem de dados com PostgreSQL, incluindo dois schemas completos (blog e e-commerce) com diagramas ER.
+
+`PostgreSQL` · `SQL` · `Modelagem de Dados`
+
+- Schemas completos com diagramas **ER** (blog e e-commerce)
+- Decisões de modelagem documentadas (**CASCADE vs RESTRICT**, soft delete, histórico de preços)
+- Convenções de nomenclatura para PKs, FKs, índices e constraints
+- Acesso ao banco via **SSH tunnel**, seguindo o princípio do menor privilégio
+
+#### ⚙️ [flask-gunicorn-nginx-deploy](https://github.com/Willsmt/flask-gunicorn-nginx-deploy) — Deploy de app Flask em produção
+Stack de deploy de uma aplicação Flask em Linux, do ambiente virtual ao serviço gerenciado por systemd com Nginx como reverse proxy.
+
+`Python` · `Flask` · `Gunicorn` · `Nginx` · `systemd`
+
+- **Gunicorn** como servidor WSGI multi-worker
+- **Nginx** como reverse proxy via Unix socket (sem expor o Gunicorn na rede)
+- Serviço gerenciado por **systemd**
+- Documentação detalhada de arquitetura e decisões de segurança
+
+#### 🔀 [estudos-python-avancado](https://github.com/Willsmt/estudos-python-avancado) — Concorrência, TDD e algoritmos
+Estudos de programação assíncrona e concorrência, com projeto prático de web scraping assíncrono.
+
+`Python` · `asyncio` · `aiohttp` · `pytest`
+
+- Scraper assíncrono com **asyncio + aiohttp** e controle de concorrência via **Semaphore**
+- Estudo de **threads, multiprocessing e TDD**
+- Apostila própria em PDF documentando o aprendizado
+
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
