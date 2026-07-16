@@ -26,17 +26,27 @@ Sistema completo de agendamento online para barbearia: o cliente escolhe serviç
 
 🔗 **Acesse:** trimote.com.br
 
-#### 🍔 [efood](https://github.com/Willsmt/efood_react) — App de delivery de comida
-Aplicativo de delivery construído a partir de um layout do Figma, com checkout completo integrado a uma API real.
+#### 💅 [belle-et-belle](https://github.com/Willsmt/belle-et-belle) — Landing page para estúdio de estética (projeto freelance)
+Projeto freelance completo para o estúdio de estética Belle et Belle: estratégia digital, identidade visual e landing page reunidos em um só lugar.
 
-`React` · `TypeScript` · `Redux Toolkit` · `Styled Components` · `React Router` · `Formik` · `Yup` · `Vite`
+`HTML5` · `CSS3` · `JavaScript`
 
-- Listagem de restaurantes e cardápios consumidos por **AJAX**
-- Carrinho com **Redux Toolkit** (total calculado por *selector*)
-- Checkout em etapas com **formulários validados** (Formik + Yup) e **POST** para a API
-- Deploy contínuo na **Vercel**
+- Logo oficial inline (nav e rodapé) via `<symbol>`/`<use>`, sem depender de arquivo externo
+- Baralho de fotos do studio no hero, com slider antes/depois arrastável (mouse, touch e teclado)
+- Galeria de resultados por categoria com lightbox e carrossel de depoimentos
+- Apostila de estratégia digital e identidade visual entregues junto com o site
+- SEO com meta tags, Open Graph e JSON-LD (BeautySalon)
 
-🔗 **Acesse:** https://efood-react.vercel.app
+#### 🎵 [reverb](https://github.com/Willsmt/gerador-playlist-reverb) — Microsite musical para marca de sucos (projeto freelance)
+Microsite full stack onde cada ritmo musical tem um QR code fixo e gera uma playlist aleatória com links para as principais plataformas de streaming.
+
+`Next.js 16` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth` · `Tailwind CSS` · `Vitest`
+
+- Sorteio de playlist com Fisher-Yates, mantendo a lógica testável sem banco
+- Painel admin com login Google (NextAuth) e autorização por allowlist de e-mails
+- Soft delete nos ritmos e músicas, preservando QR codes já impressos
+- Rate limiting por IP com janela deslizante em memória
+- Segurança de rotas: slug validado por Zod, headers CSP e erros sem stack trace exposto
 
 #### 🎮 [EPlay](https://github.com/Willsmt/eplay-loja-react) — E-commerce de games
 E-commerce de jogos com catálogo, categorias, carrinho e checkout completo, consumindo uma API real com cache.
@@ -52,8 +62,6 @@ E-commerce de jogos com catálogo, categorias, carrinho e checkout completo, con
 
 #### 🐍 [commit-diario](https://github.com/Willsmt/commit-diario) — Blog pessoal com Django
 Blog pessoal desenvolvido com Django, com apps organizados em models, views e urls, migrations e testes automatizados.
-
-`Python` · `Django` · `SQLite` · `pytest`
 
 - Estrutura de app Django com **models, views e urls** separados
 - **Testes automatizados** (pytest) com factories para models e views
