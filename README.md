@@ -24,7 +24,7 @@ Sistema completo de agendamento online para barbearia: o cliente escolhe serviç
 - Núcleo testável separado das **Server Actions**, com testes de **unidade e integração** (Vitest)
 - Razão financeira (receitas/despesas) com `Decimal`, *soft delete* e snapshots de preço
 
-🔗 **Acesse:** https://trimote.vercel.app
+🔗 **Acesse:** trimote.com.br
 
 #### 🍔 [efood](https://github.com/Willsmt/efood_react) — App de delivery de comida
 Aplicativo de delivery construído a partir de um layout do Figma, com checkout completo integrado a uma API real.
