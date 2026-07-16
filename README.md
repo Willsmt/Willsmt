@@ -13,6 +13,19 @@ Construo interfaces responsivas e componentizadas com foco em código limpo, esc
 
 ### 🚀 Projetos em destaque
 
+#### 💈 [trimote](https://github.com/Willsmt/trimote) — Sistema de agendamento full stack (projeto pessoal)
+Sistema completo de agendamento online para barbearia: o cliente escolhe serviço, dia e horário livre e agenda sozinho, com a garantia de que nunca há duplo agendamento no mesmo horário.
+
+`Next.js 16` · `TypeScript` · `Prisma` · `PostgreSQL` · `NextAuth` · `Tailwind CSS` · `Vitest`
+
+- Não-sobreposição garantida no **nível de dados** (PostgreSQL *exclusion constraint* com `EXCLUDE USING gist`)
+- Fuso horário correto: instantes em **UTC**, lógica em `America/Sao_Paulo` isolada numa camada de domínio
+- Autorização **multi-tenant no servidor** (`requireOwner` / `requireAdmin`) com camadas anti-escalação de privilégio
+- Núcleo testável separado das **Server Actions**, com testes de **unidade e integração** (Vitest)
+- Razão financeira (receitas/despesas) com `Decimal`, *soft delete* e snapshots de preço
+
+🔗 **Acesse:** https://trimote.vercel.app
+
 #### 🍔 [efood](https://github.com/Willsmt/efood_react) — App de delivery de comida
 Aplicativo de delivery construído a partir de um layout do Figma, com checkout completo integrado a uma API real.
 
