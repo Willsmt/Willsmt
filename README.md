@@ -104,6 +104,17 @@ Estudos de programação assíncrona e concorrência, com projeto prático de we
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![Grunt](https://img.shields.io/badge/Grunt-FBA919?style=for-the-badge&logo=grunt&logoColor=white)
 
+**🐍 Back-End & Dados**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 **🧪 Testes**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -114,7 +125,7 @@ Estudos de programação assíncrona e concorrência, com projeto prático de we
 
 ### 🧠 Conceitos & Metodologias
 
-`Desenvolvimento Front-End` · `Design Responsivo` · `Integração de APIs (AJAX / Fetch)` · `Programação Orientada a Objetos (POO)` · `Atomic Design` · `Arquitetura CSS (BEM e SMACSS)` · `Criação de Landing Pages`
+`Desenvolvimento Front-End` · `Design Responsivo` · `Integração de APIs (AJAX / Fetch)` · `Programação Orientada a Objetos (POO)` · `Atomic Design` · `Arquitetura CSS (BEM e SMACSS)` · `Criação de Landing Pages` · Desenvolvimento Back-End · APIs REST · ORM e Migrations · Modelagem Relacional (SQL) · TDD · Programação Assíncrona · Deploy (Gunicorn / Nginx / systemd)
 
 ---
 
@@ -131,12 +142,16 @@ Estudos de programação assíncrona e concorrência, com projeto prático de we
 - Organização de CSS com **BEM** e **SMACSS**
 - **Testes** com **React Testing Library** (unitários) e **Cypress** (E2E)
 - Versionamento com **Git** (branches, merge, resolução de conflitos e **pull requests**) e **GitHub**
+- **Python** com **Django** (models, views, urls, migrations) e **Flask**
+- **Testes automatizados** com **pytest** e TDD
+- **Modelagem de dados** relacional com **PostgreSQL** (schemas, relacionamentos, índices e constraints)
+- **Deploy** em Linux com **Gunicorn**, **Nginx** (reverse proxy) e **systemd**
+- **Programação assíncrona** com **asyncio / aiohttp** e controle de concorrência
 ---
 
 ### 🚧 Em estudo
 
-Python (Back-end) · rumo ao Full Stack
-
+APIs REST com **Django REST Framework** · Autenticação **JWT** · **Docker** · Integração dos schemas **PostgreSQL** ao **Django ORM**
 ---
 
 ### 📊 Estatísticas
