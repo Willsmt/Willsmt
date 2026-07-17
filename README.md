@@ -187,8 +187,8 @@ APIs REST com **Django REST Framework** · Autenticação **JWT** · **Docker** 
 
 ### 📊 Estatísticas
 
-![Stats](https://readme-stats-willismt.vercel.app/api?username=Willsmt&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-willismt.vercel.app/api/top-langs/?username=Willsmt&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-wills.vercel.app/api?username=Willsmt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-wills.vercel.app/api/top-langs/?username=Willsmt&layout=compact&theme=tokyonight)
 
 ---
 
