@@ -48,6 +48,16 @@ Microsite full stack onde cada ritmo musical tem um QR code fixo e gera uma play
 - Rate limiting por IP com janela deslizante em memória
 - Segurança de rotas: slug validado por Zod, headers CSP e erros sem stack trace exposto
 
+#### 🎤 [pier7](https://github.com/Willsmt/evento_gravacao_pier7) — Convite para evento de gravação ao vivo (projeto freelance)
+Landing page de convite para a gravação ao vivo da Pier7 Music, com confirmação de presença e integração completa via WhatsApp e Google.
+
+`HTML` · `CSS` · `JavaScript`
+
+- Confirmação de presença com formulário validado, salvo automaticamente no Google Sheets
+- Geração de mensagem de convite pronta para compartilhar no WhatsApp
+- Botão de adicionar evento direto no Google Calendar
+- Prévia de compartilhamento com Open Graph e imagem de capa personalizada
+
 #### 🎮 [EPlay](https://github.com/Willsmt/eplay-loja-react) — E-commerce de games
 E-commerce de jogos com catálogo, categorias, carrinho e checkout completo, consumindo uma API real com cache.
 
