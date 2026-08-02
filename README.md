@@ -7,11 +7,21 @@
 
 ### Desenvolvedor Full Stack Python & React
 
-Construo interfaces responsivas e componentizadas com foco em código limpo, escalável e bem estruturado. Atualmente expandindo a stack rumo ao desenvolvimento Full Stack com Python.
+Formado no curso Full Stack Python (EBAC), unindo essa base a uma sólida experiência prévia em React/TypeScript. Construo aplicações completas — do banco de dados à interface — com foco em código limpo, testável e bem estruturado.
 
 ---
 
 ### 🚀 Projetos em destaque
+
+#### ⛪ [koinonia](https://github.com/Willsmt/koinonia) — Rede social para igrejas organizadas em células (projeto de conclusão de curso)
+Rede social full stack com feed em três escopos (célula, rede, global), permissões derivadas da estrutura organizacional da igreja, dashboard de estatísticas e notificações.
+
+`Django` · `Django REST Framework` · `PostgreSQL` · `React` · `TypeScript` · `Redux Toolkit` · `Vite` · `Tailwind CSS`
+
+- Controle de acesso 100% derivado de um único modelo (Membership: papel + escopo)
+- CI no GitHub Actions com lint, testes de back-end (Postgres real) e front-end em paralelo
+- Deploy real: API no Render + PostgreSQL no Neon, front-end na Vercel
+- Testes automatizados no back (Django TestCase) e no front (Vitest + React Testing Library + MSW)
 
 #### 💈 [trimote](https://github.com/Willsmt/trimote) — Sistema de agendamento full stack (projeto pessoal)
 Sistema completo de agendamento online para barbearia: o cliente escolhe serviço, dia e horário livre e agenda sozinho, com a garantia de que nunca há duplo agendamento no mesmo horário.
@@ -25,6 +35,16 @@ Sistema completo de agendamento online para barbearia: o cliente escolhe serviç
 - Razão financeira (receitas/despesas) com `Decimal`, *soft delete* e snapshots de preço
 
 🔗 **Acesse:** trimote.com.br
+
+#### 📚 [bookstore](https://github.com/Willsmt/bookstore) — API REST para livraria (projeto do curso Full Stack Python)
+API REST para gerenciamento de catálogo, pedidos e estoque, construída com Django REST Framework.
+
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL` · `Docker` · `Poetry` · `pytest`
+
+- CRUD completo de livros, com leitura pública e escrita autenticada
+- Ambiente containerizado com Docker + Docker Compose
+- Testes automatizados com pytest, pytest-django e factory-boy
+- CI no GitHub Actions: lint (Ruff), suíte de testes e build da imagem
 
 #### 💅 [belle-et-belle](https://github.com/Willsmt/belle-et-belle) — Landing page para estúdio de estética (projeto freelance)
 Projeto freelance completo para o estúdio de estética Belle et Belle: estratégia digital, identidade visual e landing page reunidos em um só lugar.
@@ -178,11 +198,13 @@ Estudos de programação assíncrona e concorrência, com projeto prático de we
 - **Modelagem de dados** relacional com **PostgreSQL** (schemas, relacionamentos, índices e constraints)
 - **Deploy** em Linux com **Gunicorn**, **Nginx** (reverse proxy) e **systemd**
 - **Programação assíncrona** com **asyncio / aiohttp** e controle de concorrência
+
 ---
 
-### 🚧 Em estudo
+### 🎓 Formação
 
-APIs REST com **Django REST Framework** · Autenticação **JWT** · **Docker** · Integração dos schemas **PostgreSQL** ao **Django ORM**
+Cursando Análise e Desenvolvimento de Sistemas (Senac). Curso Full Stack Python concluído (EBAC) — Django REST Framework, PostgreSQL com Django ORM e Docker aplicados nos projetos acima. Autenticação JWT também foi estudada: no koinonia optei pelo Token do DRF, por se encaixar melhor na arquitetura do projeto.
+
 ---
 
 ### 📊 Estatísticas
